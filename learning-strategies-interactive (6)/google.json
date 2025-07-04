@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "learning-anything-strat-app",
+  "private_key_id": "ac19a8aaf4ca41d405eed8c47137f724af2b5ad0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDrhBvVL0lLWp/c\nj6ezYm2s2gn25E4BnXFdtkIm89YjjI75ibqySRRusD439akSErm1aOvPb9VCLA8I\ngzDngIuYZmzQnPZ/25MDgCImA1vQS03ULfEHX0KLMh3Z53S10kV3hYIjwD59vObL\nf+xH3X2ItSujSS9l+jr1VRCu+Y7rcdI93h51mjoAiT+Yy/A8QmT9rM2lNPcerpaU\n48h2B/y6B1OpiEfAsWUkfXotPSbWSyD/B5/fEXI3W73Cbi1dIbdqxmv+sGmrmSka\n+9L0Yd9jclOAUfJTPV3n68ZQRjBBwPqaalErff5NfqLQCHwpyDQYdIAfZPpWuhex\na3YAXss9AgMBAAECggEAB3hP5FnKRVhBLHRnU/U8l/hCdfuVIyVPQd2qCM+Vwdg6\nILK8TTNW2+aTJ/XkFZf/yT/kBYGn40q/yfv/Qm3SqlQgAhiNvk3El/PUdsgx0qV7\neSNhOw6hGbEj6T7CIOeOdIAI5KwQT1n9KASNW1TXH82UmL/q1PKJiYaChPToEjz2\nYLwLy8SjkKezLxRSQ4paapkdWJi/Rwa9S9MOearOXaIrD89QQHiFDyERCVF263fP\nsF+14+Mv6JjDXOmCSzrW28tUaWHBBaCRRvWVV2NgcmIt1aOGy+2yoRn8OQXFzFaX\nl9hsim7L4SpNE7gsM2if/g54FfoP34/r2tFAYuDOgQKBgQD/moEGpED5eaYaiQEu\ndr1DYS1uQrlwI3BNLaru+FAwOvJyfCfh9GtSnByT4umj2HcXVVgGETLTBMoai8ga\nqAmQZ+U679U3qSmtk5vFJIUxHSHaFK78T3VCLOhAyZSB4wiAwWWq3/PyqrmuCqq2\nYCUrs+gUzPC2+mkigagm3iBRqQKBgQDr4aDYdNiYYgfyeMgg3WscE0cOYjmH/puE\nXdGbqOk4p71FbcgrXdS+qm+oazAtfRTW5lpDJubbfQlZmzNjvC4QMMCnMzU2rvyB\n/b7DzH1L3JHNWmQuE6YhdiKO2A9Ct9ZeyBpHB/ednw1sjtwO6WQ3BqWbi1V+HHb2\nKbcXc4tRdQKBgGFt7mKut4mgwhz5PjcM0cXeQ+f0jSTejU8N6kse4coQnhvfkYBC\nn6okkYwZgX+P4o1FXcEqSxo+iB8oSwVGKiceQzV89+Q4mgds7YJvEkoPVbkAC1dn\nnkW0Qm93pyD/fl092tgQd7d3NkHOFRZhfamz8PIE0Hie6PZbP9JY9y7JAoGBAORn\n4rw2yNUld9SOqBtKzECvWgrPii3pmOWfgyxbbxnxMxFbsIxtm2fU2bIXuNsTV26Q\nN672qGy4sqkV47kbqu76hlJg/5In91JYRrSJ+nnO51AVyxPi6udT4Tq4dG6CXQ4C\nbY+CY385WGJaIzQ9Q1EVGp93WB15qqfK1QPcWndRAoGAO+PK60kddpk5c9NTu1M9\nkFTO3cehdya8eBa7lzbQi4ey6xcFvPmke0eqqJVy7zhlfsazDWB/Bg8ddbb1+iBt\nwxEHx9RSDVO85eBuXZwAc4vLgKJl8EYVxGZXc8CKlkPVQ+NRfjzI103k9qeqd6p7\nASsZkMzYNp3JDSgMVlc3O7A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "learning-anything-strat-app-se@learning-anything-strat-app.iam.gserviceaccount.com",
+  "client_id": "102325801755592940059",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/learning-anything-strat-app-se%40learning-anything-strat-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
