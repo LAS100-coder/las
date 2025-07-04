@@ -1,8 +1,0 @@
-export const mathLessons = {
-  '8-0': {
-    title: 'How to Master Mathematics',
-    content: 'How to master Mathematics:\nStep 1: Read and conceptualise from the textbook or listen and conceptualise when listening to your teacher/lecturer.\nStep 2: Perform the understanding strategy whenever you do not fully understand a word, term, symbol, abbreviation, etc.\nStep 3: Very important: Identify the specific steps for solving the mathematical problem. It\'s best to describe the steps in words. If there are steps missing, look back to previous examples for the steps.\nStep 4: See how the steps relate to several examples.\nStep 5: Virtual read the steps\nStep 6: Practise visualising the equations and working them out in your mind.\nStep 7: Do many mathematical exercises relating to the maths you are learning.\nStep 8: Revise.\n\nUsing Mathematical Learning Procedure:\n________________________________________\nStep 1: Read/listen and Conceptualise\nFrom the textbook or teacher:\nWe\'re learning long addition — a method used to add numbers with more than one digit (number).\nConceptualise (picture this in your mind):\nWe\'ll line up the numbers by place value: hundreds, tens, and units and add them.\n721 + 232 = \n\n________________________________________\nStep 2: Understanding Strategy\nMake sure we understand these key terms:\nPlace Value\nUnits\nTens\nHundreds\nAddition Sign\nEqual Sign\n\nWhen you understand all the mathematical terms/language being used, you will follow the steps far easier.',
-    exercise: 'Practice identifying mathematical terms in your current math homework. List any terms you don\'t fully understand.',
-    moduleId: '8'
-  }
-};
